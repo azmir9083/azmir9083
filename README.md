@@ -3,7 +3,7 @@
 **Computer Science student at San Francisco Bay University (SFBU), graduating August 2027.**  
 I work at the intersection of **cybersecurity, cloud, and data**, mostly with Python, SQL, and Linux.
 
-- 📄 **IEEE-published (CMSS 2026):** co-authored a paper comparing deep learning and classical ML for cancer-type classification from gene expression data. [DOI: 10.1109/CMSS69636.2026.11688231](https://doi.org/10.1109/CMSS69636.2026.11688231)
+- 📄 **IEEE-published (CMSS 2026):** co-authored a paper comparing deep learning and classical ML for cancer-type classification from gene expression data. [DOI: 10.1109/CMSS69636.2026.11688231](https://doi.org/10.1109/CMSS69636.2026.11688231) · [Code & summary](https://github.com/azmir9083/cancer-type-classification-rnaseq)
 - 🛡️ **Google Cybersecurity Certificate**
 - 💼 **Internships:** Data Engineering Intern at America Visa Advisory (Python, SQL, Excel) · Junior Front-End Developer Intern at Comfort Digital (WordPress, HTML/CSS/JS)
 - 🔭 **Now researching:** whether blockchain decentralization actually improves security
@@ -17,6 +17,7 @@ I work at the intersection of **cybersecurity, cloud, and data**, mostly with Py
 
 | Project | What it does | Tech |
 |---|---|---|
+| [Cancer Type Classification (IEEE CMSS 2026)](https://github.com/azmir9083/cancer-type-classification-rnaseq) | Published paper: deep learning (MLP, 1D-CNN, autoencoder) vs classical ML for identifying 5 cancer types from TCGA RNA-Seq gene expression | Python, PyTorch, scikit-learn |
 | [Stock Trend Classification](https://github.com/azmir9083/machine-learning-projects/tree/main/stock-trend-classification) | Classifies Apple (AAPL) daily moves as bullish or bearish from 18 technical indicators, comparing a Decision Tree with an LSTM | Python, scikit-learn, TensorFlow |
 | [Property Management Database](https://github.com/azmir9083/property-management-system-sql) | 8-table relational database with joins and nested queries for a property-management company | SQL (MySQL) |
 | [Agricultural Data Analysis](https://github.com/azmir9083/agricultural-data-analysis-sql) | 10-table schema and 15 analytical SQL queries on crop, weather and market data | SQL (MySQL) |
