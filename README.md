@@ -8,7 +8,7 @@ I work at the intersection of **cybersecurity, cloud, and data**, mostly with Py
 - 💼 **Internships:** Data Engineering Intern at America Visa Advisory (Python, SQL, Excel) · Junior Front-End Developer Intern at Comfort Digital (WordPress, HTML/CSS/JS)
 - 🔭 **Now researching:** whether blockchain decentralization actually improves security
 - 🎓 SFBU President's Scholarship recipient (full tuition)
-- 💼 Open to **internships** in cybersecurity, cloud, software engineering, and data
+- 💼 Open to **internships** in cybersecurity, cloud, software engineering,AI/ML and data Engineering
 - 📍 Fremont, California
 
 ---
