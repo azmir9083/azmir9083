@@ -18,10 +18,11 @@ I work at the intersection of **cybersecurity, cloud, and data**, mostly with Py
 | Project | What it does | Tech |
 |---|---|---|
 | [Stock Trend Classification](https://github.com/azmir9083/machine-learning-projects/tree/main/stock-trend-classification) | Classifies Apple (AAPL) daily moves as bullish or bearish from 18 technical indicators, comparing a Decision Tree with an LSTM | Python, scikit-learn, TensorFlow |
-| [Property Management Database](https://github.com/azmir9083/cs-course-projects/tree/main/sql-property-management-system) | 8-table relational database with joins and nested queries for a property-management company | SQL (MySQL) |
-| [Agricultural Data Analysis](https://github.com/azmir9083/cs-course-projects/tree/main/sql-agricultural-data-analysis) | 10-table schema and 15 analytical SQL queries on crop, weather and market data | SQL (MySQL) |
-| [Library Management System](https://github.com/azmir9083/cs-course-projects/tree/main/library-management-system) | Object-oriented console app to manage books, students, borrowing and returns | Java |
-| [Newton's Method Root Finding](https://github.com/azmir9083/cs-course-projects/tree/main/newtons-method-root-finding) | Numerical root finding to 6 decimal places with iteration data exported for plotting | Python, NumPy, pandas |
+| [Property Management Database](https://github.com/azmir9083/property-management-system-sql) | 8-table relational database with joins and nested queries for a property-management company | SQL (MySQL) |
+| [Agricultural Data Analysis](https://github.com/azmir9083/agricultural-data-analysis-sql) | 10-table schema and 15 analytical SQL queries on crop, weather and market data | SQL (MySQL) |
+| [Library Management System](https://github.com/azmir9083/library-management-system-java) | Object-oriented console app to manage books, students, borrowing and returns | Java |
+| [Newton's Method Root Finding](https://github.com/azmir9083/newtons-method-root-finding) | Numerical root finding to 6 decimal places with iteration data exported for plotting | Python, NumPy, pandas |
+| [Research Reports](https://github.com/azmir9083/research-reports) | Linear regression on Google stock prices, general-purpose vs AI microprocessors, XOR algorithms | Statistics, Computer Organization |
 
 ---
 
